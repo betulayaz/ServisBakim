@@ -1,0 +1,39 @@
+C:\Users\ayaz\source\repos\ServisBakim\ServisBakim\bin\Debug\ServisBakim.exe.config
+C:\Users\ayaz\source\repos\ServisBakim\ServisBakim\bin\Debug\ServisBakim.exe
+C:\Users\ayaz\source\repos\ServisBakim\ServisBakim\bin\Debug\ServisBakim.pdb
+C:\Users\ayaz\source\repos\ServisBakim\ServisBakim\obj\Debug\ServisBakim.csprojResolveAssemblyReference.cache
+C:\Users\ayaz\source\repos\ServisBakim\ServisBakim\obj\Debug\ServisBakim.Form1.resources
+C:\Users\ayaz\source\repos\ServisBakim\ServisBakim\obj\Debug\ServisBakim.Properties.Resources.resources
+C:\Users\ayaz\source\repos\ServisBakim\ServisBakim\obj\Debug\ServisBakim.csproj.GenerateResource.Cache
+C:\Users\ayaz\source\repos\ServisBakim\ServisBakim\obj\Debug\ServisBakim.csproj.CoreCompileInputs.cache
+C:\Users\ayaz\source\repos\ServisBakim\ServisBakim\obj\Debug\ServisBakim.exe
+C:\Users\ayaz\source\repos\ServisBakim\ServisBakim\obj\Debug\ServisBakim.pdb
+C:\Users\ayaz\Desktop\ServisBakimOnarim\ServisBakim\bin\Debug\ServisBakim.exe.config
+C:\Users\ayaz\Desktop\ServisBakimOnarim\ServisBakim\bin\Debug\ServisBakim.exe
+C:\Users\ayaz\Desktop\ServisBakimOnarim\ServisBakim\bin\Debug\ServisBakim.pdb
+C:\Users\ayaz\Desktop\ServisBakimOnarim\ServisBakim\obj\Debug\ServisBakim.Form1.resources
+C:\Users\ayaz\Desktop\ServisBakimOnarim\ServisBakim\obj\Debug\ServisBakim.Properties.Resources.resources
+C:\Users\ayaz\Desktop\ServisBakimOnarim\ServisBakim\obj\Debug\ServisBakim.csproj.GenerateResource.Cache
+C:\Users\ayaz\Desktop\ServisBakimOnarim\ServisBakim\obj\Debug\ServisBakim.csproj.CoreCompileInputs.cache
+C:\Users\ayaz\Desktop\ServisBakimOnarim\ServisBakim\obj\Debug\ServisBakim.exe
+C:\Users\ayaz\Desktop\ServisBakimOnarim\ServisBakim\obj\Debug\ServisBakim.pdb
+C:\Users\ayaz\Desktop\ServisBakimOnarim - Copy\ServisBakim\bin\Debug\ServisBakim.exe.config
+C:\Users\ayaz\Desktop\ServisBakimOnarim - Copy\ServisBakim\bin\Debug\ServisBakim.exe
+C:\Users\ayaz\Desktop\ServisBakimOnarim - Copy\ServisBakim\bin\Debug\ServisBakim.pdb
+C:\Users\ayaz\Desktop\ServisBakimOnarim - Copy\ServisBakim\obj\Debug\ServisBakim.Form1.resources
+C:\Users\ayaz\Desktop\ServisBakimOnarim - Copy\ServisBakim\obj\Debug\ServisBakim.Properties.Resources.resources
+C:\Users\ayaz\Desktop\ServisBakimOnarim - Copy\ServisBakim\obj\Debug\ServisBakim.csproj.GenerateResource.Cache
+C:\Users\ayaz\Desktop\ServisBakimOnarim - Copy\ServisBakim\obj\Debug\ServisBakim.csproj.CoreCompileInputs.cache
+C:\Users\ayaz\Desktop\ServisBakimOnarim - Copy\ServisBakim\obj\Debug\ServisBakim.exe
+C:\Users\ayaz\Desktop\ServisBakimOnarim - Copy\ServisBakim\obj\Debug\ServisBakim.pdb
+C:\Users\ayaz\Desktop\ServisBakimOnarim - Copy\ServisBakim\obj\Debug\ServisBakim.csprojResolveAssemblyReference.cache
+C:\Users\ayaz\Desktop\ServisBakim\ServisBakim\bin\Debug\ServisBakim.exe.config
+C:\Users\ayaz\Desktop\ServisBakim\ServisBakim\bin\Debug\ServisBakim.exe
+C:\Users\ayaz\Desktop\ServisBakim\ServisBakim\bin\Debug\ServisBakim.pdb
+C:\Users\ayaz\Desktop\ServisBakim\ServisBakim\obj\Debug\ServisBakim.Form1.resources
+C:\Users\ayaz\Desktop\ServisBakim\ServisBakim\obj\Debug\ServisBakim.Properties.Resources.resources
+C:\Users\ayaz\Desktop\ServisBakim\ServisBakim\obj\Debug\ServisBakim.csproj.GenerateResource.Cache
+C:\Users\ayaz\Desktop\ServisBakim\ServisBakim\obj\Debug\ServisBakim.csproj.CoreCompileInputs.cache
+C:\Users\ayaz\Desktop\ServisBakim\ServisBakim\obj\Debug\ServisBakim.exe
+C:\Users\ayaz\Desktop\ServisBakim\ServisBakim\obj\Debug\ServisBakim.pdb
+C:\Users\ayaz\Desktop\ServisBakimOnarim\ServisBakim\obj\Debug\ServisBakim.csprojAssemblyReference.cache

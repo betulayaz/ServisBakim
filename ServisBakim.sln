@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServisBakim", "ServisBakim\ServisBakim.csproj", "{1193B6E6-58A2-4206-B18A-7CC57FBEB292}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupServis", "SetupServis\SetupServis.vdproj", "{479BBE6D-5EB8-4FC3-9C9A-5123BB4152C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1193B6E6-58A2-4206-B18A-7CC57FBEB292}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1193B6E6-58A2-4206-B18A-7CC57FBEB292}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1193B6E6-58A2-4206-B18A-7CC57FBEB292}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1193B6E6-58A2-4206-B18A-7CC57FBEB292}.Release|Any CPU.Build.0 = Release|Any CPU
+		{479BBE6D-5EB8-4FC3-9C9A-5123BB4152C6}.Debug|Any CPU.ActiveCfg = Debug
+		{479BBE6D-5EB8-4FC3-9C9A-5123BB4152C6}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6117510E-3652-4D3E-93EA-5C859AF3F8A9}
+	EndGlobalSection
+EndGlobal
